@@ -19,7 +19,6 @@ The dataset used is a large-scale road accident dataset containing attributes su
 **Dashboard Pages**
 
 * [cite_start]**Overview Dashboard:** High-level summary featuring total accidents, distribution by day of the week, gender split, light conditions, and education levels[cite: 4, 11, 12, 13, 20].
-* [cite_start]**Geospatial Analysis:** Interactive map showing accident counts by city, specifically highlighting regions across Ethiopia (e.g., Addis Ababa, Semera, Assab)[cite: 29, 33, 36, 38].
 * [cite_start]**Driver & Condition Deep Dive:** Focuses on the relationship between driving experience, age groups, road surface types, and junction types[cite: 39, 42, 65].
 
 **Key Insights**
